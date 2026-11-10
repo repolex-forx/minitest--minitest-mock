@@ -1,0 +1,11 @@
+{
+  "org": "minitest",
+  "repo": "minitest-mock",
+  "versions": [
+    {
+      "commit": "f4656e5a923d8c11aa64678f2eacbfb009fc84fd",
+      "tag": "",
+      "parsed_at": "2026-11-10T06:54:56.375199+00:00"
+    }
+  ]
+}
