@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/minitest/minitest-mock/commit/f4656e5a923d8c11aa64678f2eacbfb009fc84fd",
       "git:hexsha": "f4656e5a923d8c11aa64678f2eacbfb009fc84fd",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T06:54:56.285108+00:00"
     },
     {
       "@id": "https://repolex.ai/r/minitest/minitest-mock/commit/1cc4dfd16a3ef8769c53b37300be6bac2f33ac0c",
