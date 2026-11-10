@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "minitest",
+  "repo": "minitest-mock",
+  "versions": [
+    {
+      "commit": "f4656e5a923d8c11aa64678f2eacbfb009fc84fd",
+      "parsed_at": "2026-11-10T06:52:36.418866+00:00",
+      "filetree": "filetree/f4656e5a923d8c11aa64678f2eacbfb009fc84fd.nq.gz",
+      "blobs": [
+        "blob/936f8ec88e3f0cd1ee58483838aeebe80fd48e32.nq.gz",
+        "blob/8a52e2fd85fa1c35c1d9cbeed4d4b6229e37c2aa.nq.gz",
+        "blob/6bf327c6b197f3f6d235497de7373db8a24170af.nq.gz",
+        "blob/e1535cd87d763ece9b64fe13fb69e8f574bdfc6d.nq.gz",
+        "blob/70aedacb12a3316f0b68062d1d22be2254a90952.nq.gz",
+        "blob/b183cfa22ec88b7de0c9180bc4e8ed0ace6e52f0.nq.gz",
+        "blob/cace5e84dc7970ba2d284d4fae41351598304647.nq.gz",
+        "blob/9c79668ecb6987bf3fc0c61da8dc66a976dea6c2.nq.gz",
+        "blob/fde506d46c6d80ba7d0ce59fa02bf5219dfe3890.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
